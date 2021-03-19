@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: datadog-buildpack
+
+server:
+  port: 8080
